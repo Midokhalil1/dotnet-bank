@@ -7,7 +7,7 @@ public decimal balance {get; set;}
 
 public BankAccount() {
     accountNumber = "unknown";
-    balance = 100;
+    balance = 100.01m;
 
 }
 
