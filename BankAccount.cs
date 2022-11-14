@@ -3,7 +3,22 @@ public class BankAccount {
 
 public string accountNumber  {get; set;}
 
-public decimal balance {get; set;}
+private decimal balance {get; set;}
+
+public decimal getBalance(){
+    return balance;
+}
+
+public void makeDeposit (decimal newDeposit) {
+      if (newDeposit < 0){
+    //   balance = balance; 
+
+    throw new Exception("deposit under zero dollars");
+
+} else {
+      balance = balance + newDeposit;
+}
+}
 
 public BankAccount() {
     accountNumber = "unknown";
@@ -28,6 +43,8 @@ public BankAccount(decimal startingBalance) {
     balance = startingBalance + 100.01m;
     }
 }
+
+
 
 
 }
