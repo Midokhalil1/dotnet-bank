@@ -1,8 +1,16 @@
 public class BankAccount {
 
 
-public string accountNumber  {get; set;} = "";
+public string accountNumber  {get; set;}
 
-public decimal balance {get; set;} = 0;
+public decimal balance {get; set;}
+
+public BankAccount() {
+    accountNumber = "unknown";
+    balance = 100;
+
+}
+
+
 
 }
