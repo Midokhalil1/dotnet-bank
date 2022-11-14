@@ -10,6 +10,11 @@ public BankAccount() {
     balance = 100.01m;
 
 }
+public BankAccount(string newAccountName) {
+
+    accountNumber = newAccountName;
+    balance = 100.01m;
+}
 
 public BankAccount(decimal startingBalance) {
 
@@ -19,8 +24,9 @@ public BankAccount(decimal startingBalance) {
     if(startingBalance > 10000){
     balance = startingBalance + 2000;
 
-    }else 
+    }else {
     balance = startingBalance + 100.01m;
+    }
 }
 
 

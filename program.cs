@@ -1,7 +1,7 @@
 Console.WriteLine("Welcome to the Bank");
 
 BankAccount account = 
-new BankAccount();
+new BankAccount(5000);
 
 // account.balance = 100;
 
