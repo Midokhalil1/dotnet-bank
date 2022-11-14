@@ -11,6 +11,17 @@ public BankAccount() {
 
 }
 
+public BankAccount(decimal startingBalance) {
+
+    accountNumber = "unknow";
+    balance = 100.01m;
+
+    if(startingBalance > 10000){
+    balance = startingBalance + 2000;
+
+    }else 
+    balance = startingBalance + 100.01m;
+}
 
 
 }
