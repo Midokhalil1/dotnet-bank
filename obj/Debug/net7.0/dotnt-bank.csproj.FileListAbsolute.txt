@@ -1,0 +1,15 @@
+/Users/midokhalil/bocacode/dotnet-bank/bin/Debug/net7.0/dotnt-bank
+/Users/midokhalil/bocacode/dotnet-bank/bin/Debug/net7.0/dotnt-bank.deps.json
+/Users/midokhalil/bocacode/dotnet-bank/bin/Debug/net7.0/dotnt-bank.runtimeconfig.json
+/Users/midokhalil/bocacode/dotnet-bank/bin/Debug/net7.0/dotnt-bank.dll
+/Users/midokhalil/bocacode/dotnet-bank/bin/Debug/net7.0/dotnt-bank.pdb
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.csproj.AssemblyReference.cache
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.AssemblyInfoInputs.cache
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.AssemblyInfo.cs
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.csproj.CoreCompileInputs.cache
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.dll
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/refint/dotnt-bank.dll
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.pdb
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/dotnt-bank.genruntimeconfig.cache
+/Users/midokhalil/bocacode/dotnet-bank/obj/Debug/net7.0/ref/dotnt-bank.dll
