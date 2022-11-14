@@ -1,7 +1,8 @@
 public class BankAccount {
 
-public string accountNumber =  "";
 
-public decimal balance = 0;
+public string accountNumber  {get; set;} = "";
+
+public decimal balance {get; set;} = 0;
 
 }
