@@ -13,5 +13,5 @@ account.makeDeposit(-1);
     Console.WriteLine(ex.Message);
 }
 
-Console.Write($"Your balance is: {account.getBalance()} ");
+Console.Write($"Your balance is: {account.getBalance()} /n Account Number: {account.accountNumber}");
 Console.WriteLine($"Account Number: {account.accountNumber}");  
